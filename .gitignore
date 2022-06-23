@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+FSM_V2/[Ll]ibrary/
+FSM_V2/[Tt]emp/
+FSM_V2/[Oo]bj/
+FSM_V2/[Bb]uild/
+FSM_V2/[Bb]uilds/
+FSM_V2/[Ll]ogs/
+FSM_V2/[Mm]emoryCaptures/
